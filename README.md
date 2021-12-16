@@ -1,3 +1,6 @@
+
+[![DepShield Badge](https://depshield.sonatype.org/badges/VVnTSequor/PHP-Project/depshield.svg)](https://depshield.github.io)
+
 # Laravel From Scratch Blog Demo Project
 
 http://laravelfromscratch.com
